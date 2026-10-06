@@ -17,5 +17,6 @@ The PRD has **not** been edited. Each item waits for the Owner to ask for a PRD 
 | DL-024 | City Picker options = only cities with results | §16.1 | |
 | DL-025 | Supplier Listing pagination; reset to page 1 on filter change | §16.1 | |
 | DL-026 | Supplier Listing category = main categories incl. subcategories | §16.1, P0-3E | |
+| DL-043 | Account deletion rules (confirmation, re-auth, effects; data removal vs retained records; anonymous remaining reviews; RFQ records) | §20, §26 | Deletion of an account that also has a store is still OPEN (Milestone 11) |
 
 **Recommended (detail level, Owner to decide):** DL-003 sort option names; DL-029 Search/PLP closeout points.
