@@ -1,0 +1,32 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# Design exports and heavy binaries — Figma is the source of truth
+*.fig
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mov
+*.pdf
+*.psd
+*.sketch
+*.zip
+exports/
+screenshots/
+
+# Generated / local
+node_modules/
+dist/
+build/
+.env
+*.log
+tmp/
