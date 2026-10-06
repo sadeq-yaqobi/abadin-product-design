@@ -16,6 +16,7 @@ Link pattern: `https://www.figma.com/design/Qwx3QpLbhwbouq12QLvAL5/?node-id=<id 
 | Supplier Profile | `373:3` | 1440 `375:134` · 375 `375:91298` · validation 1280 `375:1722` · 360 `375:92511` · 320 `375:93108`; doc `433:5533` |
 | Brand Listing | `450:3` | 1440 `452:2` · 375 `453:91537`; states `454:1278`; category states `460:1678`; validation `455:1504`; doc `456:1630` |
 | Supplier Listing | `467:2` | 1440 `467:3` · 375 `467:93947`; desktop states `468:1560`; mobile states `470:2028`; validation `471:2496`; doc `472:2977` |
+| Supplier Registration | `484:2` | Seller Guide 1440 `484:3` · 375 `492:98636`; Step 1 1440 `488:645` · 375 `489:1192`; Steps 2–4 + Review desktop `490:1301` · mobile `492:97699`; auth `493:15`; status desktop `494:15` · mobile `494:100821`; validation `496:15`; targeted 1280/360/320 `496:101428`; doc `499:103888` |
 
 ## State and QA frames
 
@@ -62,6 +63,10 @@ Link pattern: `https://www.figma.com/design/Qwx3QpLbhwbouq12QLvAL5/?node-id=<id 
 | Section Heading | `213:11511` | Section Heading `213:11479` |
 | Filter Group · Filter Panel · Sort Sheet · Results Toolbar · Product Grid | `57:486` · `57:656` · `58:151` · `58:278` · `58:981` | Filter & Sort / Product Grid |
 | Active Filters Popover | `308:49204` | Filter & Sort |
+| Form Section Header · Checklist Item · Contact Channel Input · Weekly Hours Row | `481:95693` · `481:95706` · `482:52` · `482:77` | Supplier Onboarding `481:95668` |
+| Image Upload (Logo Upload `482:144` deprecated) | `502:225` | Supplier Onboarding `481:95668` |
+| Registration Status Card | `483:199` | Supplier Onboarding `481:95668` |
+| Segmented Control · Workspace Switch · Sign-in Card | `188:117` · `54:437` · `59:294` | — |
 
 RFQ components are listed in [`docs/design/design-system-notes.md`](../design/design-system-notes.md) (Stage 3, Stage 5).
 

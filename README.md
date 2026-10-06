@@ -28,8 +28,9 @@ This repository keeps the **source-controlled documentation and history** of Aba
 | [Brand Listing](milestones/design-complete/07-brand-listing/delivery-record.md) | ✅ Design Complete |
 | [Supplier Listing](milestones/design-complete/08-supplier-listing/delivery-record.md) | ✅ Design Complete |
 | [Public Supplier Profile](milestones/design-complete/09-supplier-profile/delivery-record.md) | ✅ Design Complete |
+| [Supplier Registration / Onboarding](milestones/design-complete/10-supplier-registration/delivery-record.md) | ✅ Design Complete |
 | [Brand PLP identity consistency](milestones/delivered/brand-plp-identity-consistency/delivery-record.md) | 📦 Delivered — Owner approval not recorded |
-| [Planned items](milestones/planned/README.md) (Supplier Registration, buyer account, RFQ, seller panel…) | 🗓 Planned |
+| [Planned items](milestones/planned/README.md) (buyer account, RFQ, seller panel…) | 🗓 Planned |
 
 Details: [Design Delivery Tracker](docs/delivery/design-delivery-tracker.md).
 

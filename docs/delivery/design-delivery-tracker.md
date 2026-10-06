@@ -22,6 +22,7 @@ Operational status of design milestones. It never overrides the PRD or an APPROV
 | 07 | Brand Listing | Design Complete | Owner, 2026-10-06 | [record](../../milestones/design-complete/07-brand-listing/delivery-record.md) |
 | 08 | Supplier Listing | Design Complete | Owner, 2026-10-06 | [record](../../milestones/design-complete/08-supplier-listing/delivery-record.md) |
 | 09 | Public Supplier Profile | Design Complete | All Product OPENs closed by the Owner 2026-10-06 (recorded in the delivery record); no blocking OPEN remains. Status set by Owner instruction 2026-10-06 | [record](../../milestones/design-complete/09-supplier-profile/delivery-record.md) |
+| 10 | Supplier Registration / Onboarding | Design Complete | Owner, 2026-10-06 (all items resolved from PRD; round-2 changes final) | [record](../../milestones/design-complete/10-supplier-registration/delivery-record.md) |
 | — | Brand PLP identity consistency | Delivered | Not recorded | [record](../../milestones/delivered/brand-plp-identity-consistency/delivery-record.md) |
 | — | Planned items | Planned | — | [list](../../milestones/planned/README.md) |
 
@@ -38,4 +39,4 @@ Operational status of design milestones. It never overrides the PRD or an APPROV
 See the `OPEN` rows in the [decision log](../decisions/decision-log.md) and the [PRD sync queue](../decisions/prd-sync-queue.md).
 
 ## Next
-No milestone is in progress. Supplier Registration has not been started.
+No milestone is in progress. The next milestone has not been started.
