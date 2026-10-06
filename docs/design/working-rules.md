@@ -8,11 +8,21 @@
 - For Figma work, the `abadin-figma-design` skill applies.
 - If Figma is unavailable (for example, the plan's MCP call limit is reached), stop and report the blocker. Do not fall back to an artifact without asking.
 
-## Design widths
+## Design widths (responsive delivery policy)
 
-- Pages are designed only at **1440 (desktop)** and **375 (mobile)**.
-- Do not design 1280, 360, 320 or any other width or stress frames unless the owner explicitly asks.
-- This rule overrides any other width list, including the one in the `abadin-figma-design` skill.
+| Width | Role |
+|---|---|
+| `1440` | Full-page Desktop design |
+| `375` | Full-page Mobile design |
+| `1280` | Targeted narrower-desktop validation |
+| `360` | Targeted mobile validation |
+| `320` | Targeted narrow-mobile stress validation |
+
+- No full-page design is made at `1280`, `360` or `320` by default.
+- These widths are for targeted validation. Build a section, state or problem frame only when it is needed to show a real layout or interaction difference, or a failure.
+- Document intermediate responsive behaviour between the primary widths where it matters.
+- An untested width or state is never reported as `PASS` or validated.
+- This policy matches the «Responsive design and delivery» section of [`skills/abadin-figma-design/SKILL.md`](../../skills/abadin-figma-design/SKILL.md).
 
 ## Tasks and review
 

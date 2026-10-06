@@ -27,7 +27,7 @@ This repository keeps the **source-controlled documentation and history** of Aba
 | [Brand PLP](milestones/design-complete/06-brand-plp/delivery-record.md) | ✅ Design Complete (architecture) |
 | [Brand Listing](milestones/design-complete/07-brand-listing/delivery-record.md) | ✅ Design Complete |
 | [Supplier Listing](milestones/design-complete/08-supplier-listing/delivery-record.md) | ✅ Design Complete |
-| [Public Supplier Profile](milestones/delivered/supplier-profile/delivery-record.md) | 📦 Delivered — Owner approval not recorded |
+| [Public Supplier Profile](milestones/design-complete/09-supplier-profile/delivery-record.md) | ✅ Design Complete |
 | [Brand PLP identity consistency](milestones/delivered/brand-plp-identity-consistency/delivery-record.md) | 📦 Delivered — Owner approval not recorded |
 | [Planned items](milestones/planned/README.md) (Supplier Registration, buyer account, RFQ, seller panel…) | 🗓 Planned |
 
@@ -65,6 +65,6 @@ milestones/
 ```
 
 ## Notes on the copied documents
-- All files in `docs/product`, `docs/design`, `docs/figma`, `skills/` and the four original milestone notes are **verbatim copies** of the Claude Project files as of 2026-10-06.
+- All files in `docs/product`, `docs/design`, `docs/figma`, `skills/` and the four original milestone notes are **verbatim copies** of the Claude Project files as of 2026-10-06. Exception: the «Design widths» section of [`working-rules.md`](docs/design/working-rules.md) was later aligned with the final responsive policy.
 - `Abadin-Design-Handoff.md` describes an older ChatGPT task/review workflow. It was later replaced by [`working-rules.md`](docs/design/working-rules.md) (tasks come directly from the Owner; no ChatGPT review). The file is kept unchanged as history.
 - [`abadin-senior-design-review/SKILL.md`](skills/abadin-senior-design-review/SKILL.md) was written for that earlier review gate.

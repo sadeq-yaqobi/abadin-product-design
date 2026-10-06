@@ -21,7 +21,7 @@ Operational status of design milestones. It never overrides the PRD or an APPROV
 | 06 | Brand PLP | Design Complete (architecture) | Handoff (PLP architecture closed/approved) | [record](../../milestones/design-complete/06-brand-plp/delivery-record.md) |
 | 07 | Brand Listing | Design Complete | Owner, 2026-10-06 | [record](../../milestones/design-complete/07-brand-listing/delivery-record.md) |
 | 08 | Supplier Listing | Design Complete | Owner, 2026-10-06 | [record](../../milestones/design-complete/08-supplier-listing/delivery-record.md) |
-| — | Public Supplier Profile | Delivered | Owner closed its OPEN decisions 2026-10-06; explicit milestone approval not recorded | [record](../../milestones/delivered/supplier-profile/delivery-record.md) |
+| 09 | Public Supplier Profile | Design Complete | All Product OPENs closed by the Owner 2026-10-06 (recorded in the delivery record); no blocking OPEN remains. Status set by Owner instruction 2026-10-06 | [record](../../milestones/design-complete/09-supplier-profile/delivery-record.md) |
 | — | Brand PLP identity consistency | Delivered | Not recorded | [record](../../milestones/delivered/brand-plp-identity-consistency/delivery-record.md) |
 | — | Planned items | Planned | — | [list](../../milestones/planned/README.md) |
 
