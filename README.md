@@ -8,7 +8,7 @@ This repository keeps the **source-controlled documentation and history** of Aba
 
 | Area | Source of truth | In this repo |
 |---|---|---|
-| Product behaviour, scope, rules | [`Abadin-PRD.md`](docs/product/Abadin-PRD.md) | Copy, unchanged |
+| Product behaviour, scope, rules | [`Abadin-PRD.md`](docs/product/Abadin-PRD.md) | Copy, synced with the Claude Project PRD (Owner-approved update 2026-10-07: `P0-4D`) |
 | Visual direction | [`abadin-visual-direction.md`](docs/design/abadin-visual-direction.md) | Copy, unchanged |
 | Design output | **Figma** — [Abadin — Design System](https://www.figma.com/design/Qwx3QpLbhwbouq12QLvAL5) | Node references only ([index](docs/figma/figma-node-index.md)) |
 | Decision history | [Decision log](docs/decisions/decision-log.md) | History only — not a second PRD |
@@ -66,6 +66,6 @@ milestones/
 ```
 
 ## Notes on the copied documents
-- All files in `docs/product`, `docs/design`, `docs/figma`, `skills/` and the four original milestone notes are **verbatim copies** of the Claude Project files as of 2026-10-06. Exception: the «Design widths» section of [`working-rules.md`](docs/design/working-rules.md) was later aligned with the final responsive policy.
+- All files in `docs/product`, `docs/design`, `docs/figma`, `skills/` and the four original milestone notes are **verbatim copies** of the Claude Project files as of 2026-10-06. Exceptions: `Abadin-PRD.md` was updated on 2026-10-07 by Owner instruction (`P0-4D`, no self-service account deletion; same change made in the Claude Project); the «Design widths» section of [`working-rules.md`](docs/design/working-rules.md) was later aligned with the final responsive policy.
 - `Abadin-Design-Handoff.md` describes an older ChatGPT task/review workflow. It was later replaced by [`working-rules.md`](docs/design/working-rules.md) (tasks come directly from the Owner; no ChatGPT review). The file is kept unchanged as history.
 - [`abadin-senior-design-review/SKILL.md`](skills/abadin-senior-design-review/SKILL.md) was written for that earlier review gate.

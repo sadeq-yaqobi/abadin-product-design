@@ -17,6 +17,7 @@ The PRD has **not** been edited. Each item waits for the Owner to ask for a PRD 
 | DL-024 | City Picker options = only cities with results | §16.1 | |
 | DL-025 | Supplier Listing pagination; reset to page 1 on filter change | §16.1 | |
 | DL-026 | Supplier Listing category = main categories incl. subcategories | §16.1, P0-3E | |
-| DL-043 | Account deletion rules (confirmation, re-auth, effects; data removal vs retained records; anonymous remaining reviews; RFQ records) | §20, §26 | Deletion of an account that also has a store is still OPEN (Milestone 11) |
 
 **Recommended (detail level, Owner to decide):** DL-003 sort option names; DL-029 Search/PLP closeout points.
+
+**Resolved:** DL-044 (no self-service account deletion in MVP) was synced into the PRD on 2026-10-07 — §20 and §26 revised, §35 `P0-4D` added. DL-043 was superseded by DL-044 before it was synced, so it needs no PRD change.
