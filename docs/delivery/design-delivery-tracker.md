@@ -24,6 +24,7 @@ Operational status of design milestones. It never overrides the PRD or an APPROV
 | 09 | Public Supplier Profile | Design Complete | All Product OPENs closed by the Owner 2026-10-06 (recorded in the delivery record); no blocking OPEN remains. Status set by Owner instruction 2026-10-06 | [record](../../milestones/design-complete/09-supplier-profile/delivery-record.md) |
 | 10 | Supplier Registration / Onboarding | Design Complete | Owner, 2026-10-06 (all items resolved from PRD; round-2 changes final) | [record](../../milestones/design-complete/10-supplier-registration/delivery-record.md) |
 | 11 | Buyer Account | Design Complete | Owner, 2026-10-07 (account deletion final per DL-044 / P0-4D) | [record](../../milestones/design-complete/11-buyer-account/delivery-record.md) |
+| 12 | RFQ Create | Design Complete | Owner, 2026-10-07 (incl. final visual fixes; DL-045..047 synced to PRD §19.3) | [record](../../milestones/design-complete/12-rfq-create/delivery-record.md) |
 | — | Brand PLP identity consistency | Delivered | Not recorded | [record](../../milestones/delivered/brand-plp-identity-consistency/delivery-record.md) |
 | — | Planned items | Planned | — | [list](../../milestones/planned/README.md) |
 

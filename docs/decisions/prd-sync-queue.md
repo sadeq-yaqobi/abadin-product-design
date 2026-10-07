@@ -17,10 +17,9 @@ The PRD has **not** been edited. Each item waits for the Owner to ask for a PRD 
 | DL-024 | City Picker options = only cities with results | §16.1 | |
 | DL-025 | Supplier Listing pagination; reset to page 1 on filter change | §16.1 | |
 | DL-026 | Supplier Listing category = main categories incl. subcategories | §16.1, P0-3E | |
-| DL-045 | RFQ Create: no buyer/purchase type field in MVP | §19.3 | Replaces the conditional «در صورت داشتن کاربرد…» wording |
-| DL-046 | RFQ Create: «فاکتور رسمی نیاز دارم» kept as one simple control; no tax/company fields | §19.3 | Replaces the conditional «در صورت کاربرد واقعی» wording for the invoice |
-| DL-047 | RFQ Create: buyer does not enter shipping cost; shipping comes from the Supplier response (§19.6) | §19.3 | Removes «هزینهٔ ارسال» from the buyer's request data |
 
 **Recommended (detail level, Owner to decide):** DL-003 sort option names; DL-029 Search/PLP closeout points.
 
 **Resolved:** DL-044 (no self-service account deletion in MVP) was synced into the PRD on 2026-10-07 — §20 and §26 revised, §35 `P0-4D` added. DL-043 was superseded by DL-044 before it was synced, so it needs no PRD change.
+
+**Resolved:** DL-045, DL-046 and DL-047 (RFQ Create form scope) were synced into the PRD on 2026-10-07 — §19.3 revised and an Owner approval record added. Supplier-side shipping cost/conditions in §19.6 are unchanged.

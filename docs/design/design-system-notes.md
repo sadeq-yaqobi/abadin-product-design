@@ -677,3 +677,11 @@ Status: APPROVED. This section supersedes earlier Round 4 notes where they confl
   - Category mobile 360 `348:76292` and 320 `348:77006`;
   - BEFORE snapshots `325:18461` / `325:19554` / `325:20558` / `325:21396`.
 - **Review board:** section 9 `348:81009` (before vs after).
+
+## RFQ Create — milestone 12 (Design Complete, Owner approved 2026-10-07)
+- **New (page «RFQ Item» `37:3`):** RFQ Draft Item `552:128506` (editable row; Layout Wide/Stacked × Catalog, Catalog Error, Manual, File Uploading, File Ready, File Error; Wide rows top-aligned with a fixed actions column after Owner review) · RFQ Catalog Match `552:128557` (Default/Highlighted/Added) · RFQ Catalog Suggestions `553:386` (Popover/Plain × Results/No match/Loading; not a PLP — no prices/offers/filters) · Slot / RFQ Catalogue search `556:11912` and Slot / RFQ Manual item form `556:11974` (Sheet content slots).
+- **RFQ Stepper `61:124`:** new boolean «Show step 4» (default true → existing behaviour unchanged). RFQ Create uses 3 steps with it set to false.
+- **RFQ Item Row `39:115`:** new Layout=Inline/Stacked. Inline is the default; existing uses unchanged. Stacked moves the quantity under the title for ≤375 widths.
+- **OTP Input `58:2885` (shared):** cells flex 36–48 px and the input fills Sign-in Card `59:294`, so 6 cells fit at 320; unchanged at 375+. Checked: RFQ Create code entry at 320 and the default-width sign-in dialog. Other authentication screens were not exhaustively revalidated.
+- **Button icons:** icons swapped into Button instances by script kept the default dark stroke; on RFQ Create the primary-button icons were rebound to `primary-foreground`. When swapping icons in Button instances, check the icon colour matches the label.
+- Record: `milestones/design-complete/12-rfq-create/delivery-record.md`.

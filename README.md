@@ -8,7 +8,7 @@ This repository keeps the **source-controlled documentation and history** of Aba
 
 | Area | Source of truth | In this repo |
 |---|---|---|
-| Product behaviour, scope, rules | [`Abadin-PRD.md`](docs/product/Abadin-PRD.md) | Copy, synced with the Claude Project PRD (Owner-approved update 2026-10-07: `P0-4D`) |
+| Product behaviour, scope, rules | [`Abadin-PRD.md`](docs/product/Abadin-PRD.md) | Copy, synced with the Claude Project PRD (Owner-approved updates 2026-10-07: `P0-4D`; §19.3 synced with DL-045..047) |
 | Visual direction | [`abadin-visual-direction.md`](docs/design/abadin-visual-direction.md) | Copy, unchanged |
 | Design output | **Figma** — [Abadin — Design System](https://www.figma.com/design/Qwx3QpLbhwbouq12QLvAL5) | Node references only ([index](docs/figma/figma-node-index.md)) |
 | Decision history | [Decision log](docs/decisions/decision-log.md) | History only — not a second PRD |
@@ -30,8 +30,9 @@ This repository keeps the **source-controlled documentation and history** of Aba
 | [Public Supplier Profile](milestones/design-complete/09-supplier-profile/delivery-record.md) | ✅ Design Complete |
 | [Supplier Registration / Onboarding](milestones/design-complete/10-supplier-registration/delivery-record.md) | ✅ Design Complete |
 | [Buyer Account](milestones/design-complete/11-buyer-account/delivery-record.md) | ✅ Design Complete |
+| [RFQ Create](milestones/design-complete/12-rfq-create/delivery-record.md) | ✅ Design Complete |
 | [Brand PLP identity consistency](milestones/delivered/brand-plp-identity-consistency/delivery-record.md) | 📦 Delivered — Owner approval not recorded |
-| [Planned items](milestones/planned/README.md) (RFQ create, seller panel…) | 🗓 Planned |
+| [Planned items](milestones/planned/README.md) (seller panel, product page states…) | 🗓 Planned |
 
 Details: [Design Delivery Tracker](docs/delivery/design-delivery-tracker.md).
 
