@@ -5,7 +5,6 @@ Nothing in this list has been started. Each item becomes a milestone folder in `
 | Item | Source |
 |---|---|
 | Product page states: fully unavailable / no sellers with «موجود شد خبرم کن»; unpriced | `docs/design/design-system-notes.md` «Remaining»; PRD §14.5, P0-4B |
-| Buyer account: overview, saved products, my reviews, RFQ list and RFQ detail, account info | `docs/design/design-system-notes.md` «Remaining» |
 | RFQ create (desktop and mobile pages) | `docs/design/design-system-notes.md` «Remaining» |
 | Seller panel: dashboard, store status screens (registration status entry/landing done in milestone 10), products and prices, received RFQs and response page | `docs/design/design-system-notes.md` «Remaining» |
 | Final logo / wordmark | `docs/design/design-system-notes.md` «Not done yet» |
