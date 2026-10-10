@@ -24,4 +24,4 @@ The PRD has **not** been edited. Each item waits for the Owner to ask for a PRD 
 
 **Resolved:** DL-045, DL-046 and DL-047 (RFQ Create form scope) were synced into the PRD on 2026-10-07 — §19.3 revised and an Owner approval record added. Supplier-side shipping cost/conditions in §19.6 are unchanged.
 
-**Resolved:** DL-049 (Seller Panel access architecture) and DL-050 (seller-paused store permissions) were synced into the PRD on 2026-10-10 — §22.1 and §22.2 revised and an Owner approval record added. DL-051 (whether reactivation needs Abadin review) is OPEN and not synced.
+**Resolved:** DL-049 (Seller Panel access architecture) and DL-050 (seller-paused store permissions) were synced into the PRD on 2026-10-10 — §22.1 and §22.2 revised and an Owner approval record added. DL-051 (immediate reactivation of a seller-paused store, no new review, never bypassing suspension or other blocks) was synced into §22.2 on 2026-10-10.
