@@ -17,10 +17,11 @@ The PRD has **not** been edited. Each item waits for the Owner to ask for a PRD 
 | DL-024 | City Picker options = only cities with results | §16.1 | |
 | DL-025 | Supplier Listing pagination; reset to page 1 on filter change | §16.1 | |
 | DL-026 | Supplier Listing category = main categories incl. subcategories | §16.1, P0-3E | |
-| DL-049 | Seller Panel access architecture: dashboard for Active and seller-Paused; status-focused views for Pending Review, Needs Correction, Cannot Be Activated, Suspended | §22.1, §22.2 | |
 
 **Recommended (detail level, Owner to decide):** DL-003 sort option names; DL-029 Search/PLP closeout points.
 
 **Resolved:** DL-044 (no self-service account deletion in MVP) was synced into the PRD on 2026-10-07 — §20 and §26 revised, §35 `P0-4D` added. DL-043 was superseded by DL-044 before it was synced, so it needs no PRD change.
 
 **Resolved:** DL-045, DL-046 and DL-047 (RFQ Create form scope) were synced into the PRD on 2026-10-07 — §19.3 revised and an Owner approval record added. Supplier-side shipping cost/conditions in §19.6 are unchanged.
+
+**Resolved:** DL-049 (Seller Panel access architecture) and DL-050 (seller-paused store permissions) were synced into the PRD on 2026-10-10 — §22.1 and §22.2 revised and an Owner approval record added. DL-051 (whether reactivation needs Abadin review) is OPEN and not synced.
