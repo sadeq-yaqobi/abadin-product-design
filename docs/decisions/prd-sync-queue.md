@@ -17,6 +17,7 @@ The PRD has **not** been edited. Each item waits for the Owner to ask for a PRD 
 | DL-024 | City Picker options = only cities with results | §16.1 | |
 | DL-025 | Supplier Listing pagination; reset to page 1 on filter change | §16.1 | |
 | DL-026 | Supplier Listing category = main categories incl. subcategories | §16.1, P0-3E | |
+| DL-049 | Seller Panel access architecture: dashboard for Active and seller-Paused; status-focused views for Pending Review, Needs Correction, Cannot Be Activated, Suspended | §22.1, §22.2 | |
 
 **Recommended (detail level, Owner to decide):** DL-003 sort option names; DL-029 Search/PLP closeout points.
 
