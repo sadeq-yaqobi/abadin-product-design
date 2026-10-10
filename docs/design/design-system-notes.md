@@ -685,3 +685,11 @@ Status: APPROVED. This section supersedes earlier Round 4 notes where they confl
 - **OTP Input `58:2885` (shared):** cells flex 36–48 px and the input fills Sign-in Card `59:294`, so 6 cells fit at 320; unchanged at 375+. Checked: RFQ Create code entry at 320 and the default-width sign-in dialog. Other authentication screens were not exhaustively revalidated.
 - **Button icons:** icons swapped into Button instances by script kept the default dark stroke; on RFQ Create the primary-button icons were rebound to `primary-foreground`. When swapping icons in Button instances, check the icon colour matches the label.
 - Record: `milestones/design-complete/12-rfq-create/delivery-record.md`.
+
+## Seller Panel — Dashboard & Store Status — milestone 13A (Design Complete, Owner approved 2026-10-10)
+- **Shell:** the same pattern as Buyer Account — public Header (Internal) + Account Nav · Supplier (Sidebar 280 / Mobile hub) + 880 content. Bottom Nav hidden in the seller panel.
+- **New:** Seller Pending Action `582:136850` (dashboard «کارهای در انتظار» row; Tone Default/Attention × State Default/Hover; Title, Meta, Count, Icon; count only when its meaning is clear; no urgency colour) · Slot / Seller store status confirm `583:138760` (mobile sheet content).
+- **Registration Status Card `483:199`:** + Status=Suspended with «Show reason» (reason only when Abadin provides one; «تماس با پشتیبانی»). Additive.
+- **RFQ Summary Row `41:1094`:** + Audience=Supplier, Layout=Stacked (deadline and summary stacked for ≤375). Additive; existing supplier rows stay Default.
+- **Account Nav `48:636` (shared):** the identity name wraps instead of overflowing (long store/user names). The Buyer Account nav was rechecked and is visually unchanged.
+- Record: `milestones/design-complete/13a-seller-dashboard-status/delivery-record.md`.

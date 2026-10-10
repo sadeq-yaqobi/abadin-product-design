@@ -25,6 +25,7 @@ Operational status of design milestones. It never overrides the PRD or an APPROV
 | 10 | Supplier Registration / Onboarding | Design Complete | Owner, 2026-10-06 (all items resolved from PRD; round-2 changes final) | [record](../../milestones/design-complete/10-supplier-registration/delivery-record.md) |
 | 11 | Buyer Account | Design Complete | Owner, 2026-10-07 (account deletion final per DL-044 / P0-4D) | [record](../../milestones/design-complete/11-buyer-account/delivery-record.md) |
 | 12 | RFQ Create | Design Complete | Owner, 2026-10-07 (incl. final visual fixes; DL-045..047 synced to PRD §19.3) | [record](../../milestones/design-complete/12-rfq-create/delivery-record.md) |
+| 13A | Seller Panel — Dashboard & Store Status | Design Complete | Owner, 2026-10-10 (DL-049/050/051 approved and synced to PRD §22) | [record](../../milestones/design-complete/13a-seller-dashboard-status/delivery-record.md) |
 | — | Brand PLP identity consistency | Delivered | Not recorded | [record](../../milestones/delivered/brand-plp-identity-consistency/delivery-record.md) |
 | — | Planned items | Planned | — | [list](../../milestones/planned/README.md) |
 

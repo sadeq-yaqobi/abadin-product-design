@@ -31,8 +31,9 @@ This repository keeps the **source-controlled documentation and history** of Aba
 | [Supplier Registration / Onboarding](milestones/design-complete/10-supplier-registration/delivery-record.md) | ✅ Design Complete |
 | [Buyer Account](milestones/design-complete/11-buyer-account/delivery-record.md) | ✅ Design Complete |
 | [RFQ Create](milestones/design-complete/12-rfq-create/delivery-record.md) | ✅ Design Complete |
+| [Seller Panel — Dashboard & Store Status (13A)](milestones/design-complete/13a-seller-dashboard-status/delivery-record.md) | ✅ Design Complete |
 | [Brand PLP identity consistency](milestones/delivered/brand-plp-identity-consistency/delivery-record.md) | 📦 Delivered — Owner approval not recorded |
-| [Planned items](milestones/planned/README.md) (seller panel, product page states…) | 🗓 Planned |
+| [Planned items](milestones/planned/README.md) (seller panel 13B/13C, product page states…) | 🗓 Planned |
 
 Details: [Design Delivery Tracker](docs/delivery/design-delivery-tracker.md).
 

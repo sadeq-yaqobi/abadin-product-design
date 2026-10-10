@@ -19,6 +19,7 @@ Link pattern: `https://www.figma.com/design/Qwx3QpLbhwbouq12QLvAL5/?node-id=<id 
 | Supplier Registration | `484:2` | Seller Guide 1440 `484:3` · 375 `492:98636`; Step 1 1440 `488:645` · 375 `489:1192`; Steps 2–4 + Review desktop `490:1301` · mobile `492:97699`; auth `493:15`; status desktop `494:15` · mobile `494:100821`; validation `496:15`; targeted 1280/360/320 `496:101428`; doc `499:103888` |
 | Buyer Account | `510:571` | Overview 1440 `511:2` · 375 hub `512:2`; Saved Products `513:106159` · `513:106553`; My Reviews `515:3894` · `515:4191`; RFQ List `516:4769` · `516:5108`; RFQ Detail `518:5780` · `519:116143`; Account Information `524:14865` · `524:15114`; RFQ Detail interaction desktop `519:112897` · mobile `522:12941`; change mobile `526:15713`; states desktop `528:15963` · mobile & toasts `529:16345`; responsive 1280/360/320 `529:121862`; doc `531:25718` |
 | RFQ Create | `553:387` | Step 1 1440 `553:8677` · 375 `553:131564`; Step 2 `553:129202` · `553:131787`; Step 3 Review `553:129915` · `553:131879`; Submitted `553:130561` · `553:132241`; Global OFF `553:131114` · `553:132343`; boards A item entry desktop `555:3013` · B mobile `556:12032` · C validation/submission `558:5156` · D staged activation `557:4184` · E guest sign-in `557:12625` · R responsive `558:133327`; doc `560:7686` |
+| Seller Panel — Dashboard & Status (13A) | `582:25271` | Active dashboard 1440 `582:25272` · 375 `582:25327`; Paused `583:136783` · `583:137074`; Suspended `583:138061` · `583:138073`; Pending/Needs Correction/Cannot Be Activated reuse M10 `494:26`·`494:100822` / `494:582`·`494:100994` / `494:1177`·`494:101223`; boards S status & access matrix `583:138551` · P pause/reactivate `584:2990` · N navigation & empty/error `585:5240` · R responsive `585:5654`; doc `586:8661` |
 
 ## State and QA frames
 
@@ -67,14 +68,15 @@ Link pattern: `https://www.figma.com/design/Qwx3QpLbhwbouq12QLvAL5/?node-id=<id 
 | Active Filters Popover | `308:49204` | Filter & Sort |
 | Form Section Header · Checklist Item · Contact Channel Input · Weekly Hours Row | `481:95693` · `481:95706` · `482:52` · `482:77` | Supplier Onboarding `481:95668` |
 | Image Upload (Logo Upload `482:144` deprecated) | `502:225` | Supplier Onboarding `481:95668` |
-| Registration Status Card | `483:199` | Supplier Onboarding `481:95668` |
+| Registration Status Card (+ Suspended, «Show reason» since 13A) | `483:199` | Supplier Onboarding `481:95668` |
+| Seller Pending Action · Slot / Seller store status confirm | `582:136850` · `583:138760` | Supplier Onboarding `481:95668` |
 | Toast | `512:105799` | Notice |
 | RFQ Draft Item · RFQ Catalog Match · RFQ Catalog Suggestions | `552:128506` · `552:128557` · `553:386` | RFQ Item `37:3` |
 | Slot / RFQ Catalogue search · Slot / RFQ Manual item form (Sheet content) | `556:11912` · `556:11974` | RFQ Item `37:3` |
 | OTP Input (cells flex 36–48 since milestone 12) · Sign-in Card | `58:2885` · `59:294` | OTP Sign-in |
 | Segmented Control · Workspace Switch · Sign-in Card | `188:117` · `54:437` · `59:294` | — |
 
-RFQ components are listed in [`docs/design/design-system-notes.md`](../design/design-system-notes.md) (Stage 3, Stage 5). Changed in Buyer Account (milestone 11): RFQ Summary Row `41:1094`, RFQ Comparison Line `40:1037`, RFQ Item Comparison `40:1038`, RFQ Supplier Response Card `41:325`; Contact Sheet `231:11086` (fills width). Changed in RFQ Create (milestone 12): RFQ Stepper `61:124` («Show step 4»), RFQ Item Row `39:115` (Layout=Inline/Stacked).
+RFQ components are listed in [`docs/design/design-system-notes.md`](../design/design-system-notes.md) (Stage 3, Stage 5). Changed in Buyer Account (milestone 11): RFQ Summary Row `41:1094`, RFQ Comparison Line `40:1037`, RFQ Item Comparison `40:1038`, RFQ Supplier Response Card `41:325`; Contact Sheet `231:11086` (fills width). Changed in RFQ Create (milestone 12): RFQ Stepper `61:124` («Show step 4»), RFQ Item Row `39:115` (Layout=Inline/Stacked). Changed in 13A: RFQ Summary Row `41:1094` (+ Supplier · Stacked); Account Nav `48:636` (identity name wraps).
 
 ## System pages
 
